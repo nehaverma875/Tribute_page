@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+}
+
+body {
+    background-color: #76f547;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 2px 4px 3px rgb(128, 244, 244);
+}
+
+#im {
+    margin-left: 450px;
+}
+
+#s {
+    text-align: center;
+}
+
+#t {
+    margin-top: 70px;
+    text-shadow: 3px 5px 5px rgb(8, 8, 8);
+    color: white;
+    font-size: 45px;
+}
+
+#pr {
+    text-align: center;
+}
+
+#in {
+    height: 1290px;
+    width: 600px;
+    border: 2px solid rgb(98, 243, 134);
+    margin-left: 27%;
+    margin-top: 2%;
+    background-color: rgb(98, 235, 98);
+    box-shadow: 5px 10px 18px rgb(142, 199, 10);
+}
+
+#end {
+    text-align: center;
+}
